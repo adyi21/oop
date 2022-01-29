@@ -1,0 +1,26 @@
+{
+    "details": "Generated for adyi21 at 2022-01-27 15:34:52.",
+    "key": "71f27c9cdffad064338e8d8a33d14839",
+    "summary": {
+        "questions": 6,
+        "points": 10,
+        "pass": 10.0,
+        "passdistinct": 10.0
+    },
+    "points": {
+        "1.1": 2,
+        "1.2": 2,
+        "1.3": 2,
+        "1.4": 2,
+        "1.5": 1,
+        "1.6": 1
+    },
+    "answers": {
+        "1.1": "541355-8072",
+        "1.2": "Name: Hugo SSN: 541355-8072 Address: Tar Valon Throvenland Ceald",
+        "1.3": "Name: Hugo SSN: 930807-7536 Courses: linux, linux, javascript1",
+        "1.4": 3,
+        "1.5": "Name: Steve SSN: 482075-3621 Courses: oopython, oophp",
+        "1.6": "{\n    \"name\": \"Steve\",\n    \"ssn\": \"482075-3621\",\n    \"courses\": [\n        \"oopython\",\n        \"oophp\"\n    ]\n}"
+    }
+}
